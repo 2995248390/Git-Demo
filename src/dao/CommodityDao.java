@@ -1,4 +1,4 @@
 package dao;
 
-public class CommodityDao {
+public class CommodityDao {//
 }
